@@ -65,7 +65,7 @@
 
 <a href="https://www.linkedin.com/in/dvir-yotvat-7608391a9/"></a>
 
-<a href="mailto:dvir563@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:dvir563@gmail.com"><img alt="Email" src="https://img.shields.io/badge/dvir563@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
 
