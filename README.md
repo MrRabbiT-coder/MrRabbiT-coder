@@ -23,44 +23,13 @@ func GetBio() Bio {
 	return Bio{
 		"- ⚡ Quick bio:":                    "Software engineer student azrieli college of engineering jerusalem."
 		"- 🔭 I’m currently working on":      "Several apps",
-		"- 🌱 I’m currently learning":        "HTML, JavaScript --- Sharpening my Front End Skills for the MERN stack (Personal goal)",
+		"- 🌱 I’m currently learning":        "HTML, JavaScript, CSS --- Sharpening my Front End Skills for the MERN stack (Personal goal)",
 		"- 🤔 I’m looking for help with":     "Anything I am currently learning 😅",
-		"- 💬 Ask me about":                  "Java, C, C++, SQL",
-		"- 📫 How to reach me:":              "  <a href="https://www.linkedin.com/in/angel-santiago-jaime-zavala-601813199/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
-  </a>",
+		"- 💬 Ask me about":                  "Java, C, C++, SQL"
 	}
 }
 ```
-<h3> 👨🏻•💻 About Me </h3>
-
-
-- 🎓 &nbsp; Software engineer student azrieli college of engineering jerusalem.
-
-- 🤔 &nbsp; Exploring new ideas and developing software solutions and quick hacks.
-
-- 🌱 &nbsp; Learning about android apps.
-
-
-
-<h3>🛠 Tech Stack</h3>
-
-
-
-- 💻 &nbsp; | Java | C++ | C | MySQL
-
-- 🌐 &nbsp; HTML | JavaScript
-
-
-
-
-<h3>🛠 To Learn</h3>
-
-- 🔧 &nbsp; Python | CSS |
-
-<hr>
-
-
+#📫 How to reach me:
 
 <br/><br/>
 
