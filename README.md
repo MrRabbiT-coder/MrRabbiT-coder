@@ -1,18 +1,15 @@
 ### Hi there 👋<h2> I'm Dvir</h2>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://media3.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47z0ih9328sfrdvjlejycwvvbiy3kqr6ew07o4wvdj&rid=giphy.gif" width="230">
 
 <h3> 👨🏻•💻 About Me </h3>
 
 
+- 🎓 &nbsp; Software engineer student azrieli college of engineering jerusalem.
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new ideas and developing software solutions and quick hacks.
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
-
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
-
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+- 🌱 &nbsp; Learning about android apps.
 
 
 
