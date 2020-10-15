@@ -36,8 +36,8 @@ func GetBio() Bio {
 <a href="https://www.linkedin.com/in/dvir-yotvat-7608391a9/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
   </a>
-
-<a align="center"> href="mailto:dvir563@gmail.com"><img alt="Email" src="https://img.shields.io/badge/dvir563@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<p align="center">
+<a align="center"> href="mailto:dvir563@gmail.com"><img alt="Email" src="https://img.shields.io/badge/dvir563@gmail.com-blue?style=flat-square&logo=gmail"></a> </a>
 
 </p>
 
