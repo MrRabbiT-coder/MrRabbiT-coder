@@ -46,7 +46,11 @@ func GetBio() Bio {
 
 
 <h2 align="center">Visitor's count :eyes:</h2>
- ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=MrRabbiT-coder.MrRabbiT-coder) 
+
+<p align="center">
+	<a ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=MrRabbiT-coder.MrRabbiT-coder) </a>
+</p>
+  
 
 
 
