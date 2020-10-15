@@ -38,7 +38,7 @@ func GetBio() Bio {
   </a>
 
   <a href="https://stackoverflow.com/users/2946413/angel-santiago-jaime-zavala?tab=profile">
-    <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/gmail/gmail-tile.svg" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="30">
   </a>
 
 </p>
