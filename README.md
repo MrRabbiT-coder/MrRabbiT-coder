@@ -2,8 +2,6 @@
 
 <img align='right' src="https://media3.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47z0ih9328sfrdvjlejycwvvbiy3kqr6ew07o4wvdj&rid=giphy.gif" width="230">
 
-# Angel Jaime
-
 <h2 align="center">About me</h2>
 
 ```golang
