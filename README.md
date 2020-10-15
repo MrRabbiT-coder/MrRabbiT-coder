@@ -37,7 +37,7 @@ func GetBio() Bio {
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="30" width="30">
   </a>
 
-  <a href="https://stackoverflow.com/users/2946413/angel-santiago-jaime-zavala?tab=profile">
+  <a href="mailto:someone@example.com">Send email</a>>
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="30">
   </a>
 
