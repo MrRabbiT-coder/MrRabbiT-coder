@@ -31,16 +31,13 @@ func GetBio() Bio {
 ```
 <h2 align="center">📫 Connect with Me:</h2>
 
-
-<p align="center">
-<a href="https://www.linkedin.com/in/dvir-yotvat-7608391a9/">
+  <a href="https://www.linkedin.com/in/angel-santiago-jaime-zavala-601813199/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
   </a>
-	
-<a href"mailto:dvir563@gmail.com">
-     <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/gmail/gmail-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
+
+  <a href="https://stackoverflow.com/users/2946413/angel-santiago-jaime-zavala?tab=profile">
+    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Angel Santiago Jaime Zavala's Stack Overflow Profile" height="30" width="30">
   </a>
-<a href="mailto:dvir563@gmail.com"><img alt="Email" src="https://img.shields.io/badge/dvir563@gmail.com-blue?style=flat-square&logo=gmail"></a> </a>
 
 </p>
 
