@@ -13,6 +13,18 @@ import (
 
 type Bio map[string]string
 
+class Bio extends SoftwareDeveloper {
+  name     = 'Dvir Yotvat';
+  title    = 'Software Engineer student';
+  company  = 'azrieli college of engineering jerusalem';
+  location = 'jerusalem, IL';
+}
+
+class Skills extends SoftwareDeveloper {
+  languages  = ['Java', 'C', 'C++', 'Pyton (little)'];
+  databases  = ['MySQL'];
+}
+
 func main() {
 	for k, v := range GetBio() {
 		fmt.Printf("%+v: %+v\n", k, v)
@@ -21,9 +33,9 @@ func main() {
 
 func GetBio() Bio {
 	return Bio{
-		"- ⚡ Quick bio:":                    "Software engineer student azrieli college of engineering jerusalem."
+		"- ⚡ Quick bio:":                    "PC labs Manager and Software engineer student azrieli college of engineering jerusalem."
 		"- 🔭 I’m currently working on":      "Several apps",
-		"- 🌱 I’m currently learning":        "HTML, JavaScript, CSS --- Sharpening my Front End Skills for the MERN stack (Personal goal)",
+		"- 🌱 I’m currently learning":        "Pyton, HTML, JavaScript, CSS --- Sharpening my Front End Skills (Personal goal)",
 		"- 🤔 I’m looking for help with":     "Anything I am currently learning 😅",
 		"- 💬 Ask me about":                  "Java, C, C++, SQL"
 	}
@@ -52,7 +64,7 @@ func GetBio() Bio {
 
 
 
-<"div align"="center">![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=MrRabbiT-coder.MrRabbiT-coder)</a>
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=MrRabbiT-coder.MrRabbiT-coder)</a>
 
 	
 	
