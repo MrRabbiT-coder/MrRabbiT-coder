@@ -52,7 +52,7 @@ func GetBio() Bio {
 
 
 
-align="center">![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=MrRabbiT-coder.MrRabbiT-coder)</a>
+<a align="center">![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=MrRabbiT-coder.MrRabbiT-coder)</a>
 
 	
 	
