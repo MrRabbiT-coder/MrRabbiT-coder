@@ -21,7 +21,7 @@ class Bio extends SoftwareDeveloper {
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['Java', 'C', 'C++', 'Pyton (little)'];
+  languages  = ['Java', 'C', 'C++', 'Pyton (little)' , 'HTML', 'JavaScript', 'CSS'];
   databases  = ['MySQL'];
 }
 
@@ -35,7 +35,7 @@ func GetBio() Bio {
 	return Bio{
 		"- ⚡ Quick bio:":                    "PC labs Manager and Software engineer student azrieli college of engineering jerusalem."
 		"- 🔭 I’m currently working on":      "Several apps",
-		"- 🌱 I’m currently learning":        "Pyton, HTML, JavaScript, CSS --- Sharpening my Front End Skills (Personal goal)",
+		"- 🌱 I’m currently learning":        "Pyton --- Sharpening my Front End Skills (Personal goal)",
 		"- 🤔 I’m looking for help with":     "Anything I am currently learning 😅",
 		"- 💬 Ask me about":                  "Java, C, C++, SQL"
 	}
