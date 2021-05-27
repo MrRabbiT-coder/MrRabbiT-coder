@@ -37,7 +37,7 @@ func GetBio() Bio {
 		"- 🔭 I’m currently working on":      "Several apps",
 		"- 🌱 I’m currently learning":        "Pyton --- Sharpening my Front End Skills (Personal goal)",
 		"- 🤔 I’m looking for help with":     "Anything I am currently learning 😅",
-		"- 💬 Ask me about":                  "Java, C, C++, SQL"
+		"- 💬 Ask me about":                  "Java, C, C++, HTML, JavaScript, CSS"
 	}
 }
 ```
